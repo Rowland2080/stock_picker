@@ -1,0 +1,1 @@
+This program implements a method #stock_picker that takes in an array of stock prices, one for each hypothetical day and returns a pair of days representing the best day to buy stock and the best day to sell, to yield maximum profit.
